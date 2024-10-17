@@ -1,0 +1,14 @@
+D:\C#\Lesson01\Lab02_02\obj\Debug\net8.0\Lab02_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Lesson01\Lab02_02\obj\Debug\net8.0\Lab02_02.AssemblyInfoInputs.cache
+D:\C#\Lesson01\Lab02_02\obj\Debug\net8.0\Lab02_02.AssemblyInfo.cs
+D:\C#\Lesson01\Lab02_02\obj\Debug\net8.0\Lab02_02.csproj.CoreCompileInputs.cache
+D:\C#\Lesson01\Lab02_02\bin\Debug\net8.0\Lab02_02.exe
+D:\C#\Lesson01\Lab02_02\bin\Debug\net8.0\Lab02_02.deps.json
+D:\C#\Lesson01\Lab02_02\bin\Debug\net8.0\Lab02_02.runtimeconfig.json
+D:\C#\Lesson01\Lab02_02\bin\Debug\net8.0\Lab02_02.dll
+D:\C#\Lesson01\Lab02_02\bin\Debug\net8.0\Lab02_02.pdb
+D:\C#\Lesson01\Lab02_02\obj\Debug\net8.0\Lab02_02.dll
+D:\C#\Lesson01\Lab02_02\obj\Debug\net8.0\refint\Lab02_02.dll
+D:\C#\Lesson01\Lab02_02\obj\Debug\net8.0\Lab02_02.pdb
+D:\C#\Lesson01\Lab02_02\obj\Debug\net8.0\Lab02_02.genruntimeconfig.cache
+D:\C#\Lesson01\Lab02_02\obj\Debug\net8.0\ref\Lab02_02.dll

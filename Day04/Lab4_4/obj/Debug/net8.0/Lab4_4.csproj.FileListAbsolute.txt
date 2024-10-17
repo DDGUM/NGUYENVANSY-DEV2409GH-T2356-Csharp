@@ -1,0 +1,15 @@
+D:\NguyenTuanTai_DEV2409GH-T2356-Csharp\Day04\Lab4_4\bin\Debug\net8.0\Lab4_4.exe
+D:\NguyenTuanTai_DEV2409GH-T2356-Csharp\Day04\Lab4_4\bin\Debug\net8.0\Lab4_4.deps.json
+D:\NguyenTuanTai_DEV2409GH-T2356-Csharp\Day04\Lab4_4\bin\Debug\net8.0\Lab4_4.runtimeconfig.json
+D:\NguyenTuanTai_DEV2409GH-T2356-Csharp\Day04\Lab4_4\bin\Debug\net8.0\Lab4_4.dll
+D:\NguyenTuanTai_DEV2409GH-T2356-Csharp\Day04\Lab4_4\bin\Debug\net8.0\Lab4_4.pdb
+D:\NguyenTuanTai_DEV2409GH-T2356-Csharp\Day04\Lab4_4\obj\Debug\net8.0\Lab4_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\NguyenTuanTai_DEV2409GH-T2356-Csharp\Day04\Lab4_4\obj\Debug\net8.0\Lab4_4.AssemblyInfoInputs.cache
+D:\NguyenTuanTai_DEV2409GH-T2356-Csharp\Day04\Lab4_4\obj\Debug\net8.0\Lab4_4.AssemblyInfo.cs
+D:\NguyenTuanTai_DEV2409GH-T2356-Csharp\Day04\Lab4_4\obj\Debug\net8.0\Lab4_4.csproj.CoreCompileInputs.cache
+D:\NguyenTuanTai_DEV2409GH-T2356-Csharp\Day04\Lab4_4\obj\Debug\net8.0\Lab4_4.sourcelink.json
+D:\NguyenTuanTai_DEV2409GH-T2356-Csharp\Day04\Lab4_4\obj\Debug\net8.0\Lab4_4.dll
+D:\NguyenTuanTai_DEV2409GH-T2356-Csharp\Day04\Lab4_4\obj\Debug\net8.0\refint\Lab4_4.dll
+D:\NguyenTuanTai_DEV2409GH-T2356-Csharp\Day04\Lab4_4\obj\Debug\net8.0\Lab4_4.pdb
+D:\NguyenTuanTai_DEV2409GH-T2356-Csharp\Day04\Lab4_4\obj\Debug\net8.0\Lab4_4.genruntimeconfig.cache
+D:\NguyenTuanTai_DEV2409GH-T2356-Csharp\Day04\Lab4_4\obj\Debug\net8.0\ref\Lab4_4.dll

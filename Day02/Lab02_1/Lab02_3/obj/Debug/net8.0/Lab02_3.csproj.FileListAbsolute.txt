@@ -1,0 +1,15 @@
+D:\NguyenTuanTai_DEV2409GH-T2356-Csharp\Day02\Lab02_1\Lab02_3\obj\Debug\net8.0\Lab02_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\NguyenTuanTai_DEV2409GH-T2356-Csharp\Day02\Lab02_1\Lab02_3\obj\Debug\net8.0\Lab02_3.AssemblyInfoInputs.cache
+D:\NguyenTuanTai_DEV2409GH-T2356-Csharp\Day02\Lab02_1\Lab02_3\obj\Debug\net8.0\Lab02_3.AssemblyInfo.cs
+D:\NguyenTuanTai_DEV2409GH-T2356-Csharp\Day02\Lab02_1\Lab02_3\obj\Debug\net8.0\Lab02_3.csproj.CoreCompileInputs.cache
+D:\NguyenTuanTai_DEV2409GH-T2356-Csharp\Day02\Lab02_1\Lab02_3\obj\Debug\net8.0\Lab02_3.sourcelink.json
+D:\NguyenTuanTai_DEV2409GH-T2356-Csharp\Day02\Lab02_1\Lab02_3\bin\Debug\net8.0\Lab02_3.exe
+D:\NguyenTuanTai_DEV2409GH-T2356-Csharp\Day02\Lab02_1\Lab02_3\bin\Debug\net8.0\Lab02_3.deps.json
+D:\NguyenTuanTai_DEV2409GH-T2356-Csharp\Day02\Lab02_1\Lab02_3\bin\Debug\net8.0\Lab02_3.runtimeconfig.json
+D:\NguyenTuanTai_DEV2409GH-T2356-Csharp\Day02\Lab02_1\Lab02_3\bin\Debug\net8.0\Lab02_3.dll
+D:\NguyenTuanTai_DEV2409GH-T2356-Csharp\Day02\Lab02_1\Lab02_3\bin\Debug\net8.0\Lab02_3.pdb
+D:\NguyenTuanTai_DEV2409GH-T2356-Csharp\Day02\Lab02_1\Lab02_3\obj\Debug\net8.0\Lab02_3.dll
+D:\NguyenTuanTai_DEV2409GH-T2356-Csharp\Day02\Lab02_1\Lab02_3\obj\Debug\net8.0\refint\Lab02_3.dll
+D:\NguyenTuanTai_DEV2409GH-T2356-Csharp\Day02\Lab02_1\Lab02_3\obj\Debug\net8.0\Lab02_3.pdb
+D:\NguyenTuanTai_DEV2409GH-T2356-Csharp\Day02\Lab02_1\Lab02_3\obj\Debug\net8.0\Lab02_3.genruntimeconfig.cache
+D:\NguyenTuanTai_DEV2409GH-T2356-Csharp\Day02\Lab02_1\Lab02_3\obj\Debug\net8.0\ref\Lab02_3.dll
