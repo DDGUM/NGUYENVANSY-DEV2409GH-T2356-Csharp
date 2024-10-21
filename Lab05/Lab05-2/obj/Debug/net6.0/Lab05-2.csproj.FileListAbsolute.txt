@@ -1,0 +1,14 @@
+D:\NGUYENVANSY-DEV2409GH-T2356-Csharp\Lab05\Lab05-2\bin\Debug\net6.0\Lab05-2.exe
+D:\NGUYENVANSY-DEV2409GH-T2356-Csharp\Lab05\Lab05-2\bin\Debug\net6.0\Lab05-2.deps.json
+D:\NGUYENVANSY-DEV2409GH-T2356-Csharp\Lab05\Lab05-2\bin\Debug\net6.0\Lab05-2.runtimeconfig.json
+D:\NGUYENVANSY-DEV2409GH-T2356-Csharp\Lab05\Lab05-2\bin\Debug\net6.0\Lab05-2.dll
+D:\NGUYENVANSY-DEV2409GH-T2356-Csharp\Lab05\Lab05-2\bin\Debug\net6.0\Lab05-2.pdb
+D:\NGUYENVANSY-DEV2409GH-T2356-Csharp\Lab05\Lab05-2\obj\Debug\net6.0\Lab05-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\NGUYENVANSY-DEV2409GH-T2356-Csharp\Lab05\Lab05-2\obj\Debug\net6.0\Lab05-2.AssemblyInfoInputs.cache
+D:\NGUYENVANSY-DEV2409GH-T2356-Csharp\Lab05\Lab05-2\obj\Debug\net6.0\Lab05-2.AssemblyInfo.cs
+D:\NGUYENVANSY-DEV2409GH-T2356-Csharp\Lab05\Lab05-2\obj\Debug\net6.0\Lab05-2.csproj.CoreCompileInputs.cache
+D:\NGUYENVANSY-DEV2409GH-T2356-Csharp\Lab05\Lab05-2\obj\Debug\net6.0\Lab05-2.dll
+D:\NGUYENVANSY-DEV2409GH-T2356-Csharp\Lab05\Lab05-2\obj\Debug\net6.0\refint\Lab05-2.dll
+D:\NGUYENVANSY-DEV2409GH-T2356-Csharp\Lab05\Lab05-2\obj\Debug\net6.0\Lab05-2.pdb
+D:\NGUYENVANSY-DEV2409GH-T2356-Csharp\Lab05\Lab05-2\obj\Debug\net6.0\Lab05-2.genruntimeconfig.cache
+D:\NGUYENVANSY-DEV2409GH-T2356-Csharp\Lab05\Lab05-2\obj\Debug\net6.0\ref\Lab05-2.dll
